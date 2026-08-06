@@ -7,5 +7,6 @@ GameMaker color scheme for Code Editor 2 for the [GruvBox](https://github.com/he
 <img width="1001" height="372" alt="image" src="https://github.com/user-attachments/assets/f42c9e83-a28d-4718-ab52-bc53781d4118" />
 
 Some source code for viewing pleasure:
+<img width="3838" height="2107" alt="image" src="https://github.com/user-attachments/assets/fee2cfc2-76a4-4249-8f91-385f790379a3" />
 <img width="1510" height="1594" alt="image" src="https://github.com/user-attachments/assets/2da152d7-8f36-4d71-8ac5-3712334bbbdc" />
 <img width="1510" height="1594" alt="image" src="https://github.com/user-attachments/assets/a8fb3b23-cb8a-46df-93bf-9a5ad624b98d" />
