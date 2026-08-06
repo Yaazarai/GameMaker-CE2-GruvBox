@@ -1,5 +1,5 @@
 # GameMaker-CE2-GruvBox
-GameMaker color scheme for Code Editor 2 for the GruvBox theme GruvBox.
+GameMaker color scheme for Code Editor 2 for the [GruvBox](https://github.com/heygleeson/Gruvbox-GMTheme) theme.
 
 * Download the file then _**GameMaker -> Preferences -> Code Editor 2 -> Theme -> Click "New" for the theme and select "from file."**_
 * Font is **Consolas** and font size is 12, adjust as needed for your resolution.
